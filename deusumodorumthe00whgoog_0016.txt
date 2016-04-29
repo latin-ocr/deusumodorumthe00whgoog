@@ -1,0 +1,49 @@
+DE VSV MODORVM THEOCRITEO
+
+XVII: 116. . . . τί δὲ κάλλιον ἀνδρί κεν εἴη
+ὀλβίῳ 1) κλέος ἐσθλὸν ἐν ἀνθρώποισιν ἀρέσθαη
+
+XXI: 34. . . . τί γὰρ ποιεῖν ἂν ἔχοι τις
+κείμενος ἐν φύλλοις ποτὶ κύματι μηδὲ καθεύδων, . ..
+
+γ) Optaliuus correlatz'uus
+
+Huc referendum mihi uidetur hoc exemplum, ubi optatiuo
+particula ἄν 0000011101; sententia condicionalis auditur:
+XXII: 62. δαιμόνι’, οὐδ’ ἂν τοῦδε πιεῖν ὕδατος σύγε δοίης
+
+Iam si omnia exempla optatiui potentialis nulla ratione
+
+notionis diuersitatis habita una colligimus haee fere sunt:
+
+a) In sententiis iudicandi:
+Optatiui nudi: [1:6o?]‚ II: 33, VIII: 20, VIII: 88, VIII: 90, XI: 50,
+XI: 73, XVI: 66, XVII: 7, [XVIII 21?], XXII: 60, XXII: 73,
+XXVII: 60, XXVIII: 12. XXIX: 10, XXIX: 37 = 14 (16) exempla.
+Optatiui 0001 κέν coniuncti: I: 42, I: 56. I: 60[?], III: 38, IV: 11,
+VII: 100, XII: 12 (bis), XIV: 50, VV: 2 5 (incerta lectio), XV: 26,
+XV: 38 (incerta lectio), XVI: 17, XVI: 106, XVII: 40, XVII: 95,
+XVIII: 21[?], XXIV: 135. XXV: 37, XXV: 43, XXV: 183,
+XXV: 195, XXV: 197, XXIX: 21, XXIX: 39 = 25(21) exempla.
+Optatiuus curn ἄν 1111101οε XXI: 32 (1000110100110).
+
+11) In sententiis interrogatiuis:
+Optatiuus nudus XXVII: 24; (XV: 51 editores 001110001100111
+1031101).
+Optatiui cum κέν coniuncti: XI: 49, XVI: 20, XVII: 116,
+XXI: 34.
+Optatiuus cum ἄν coniunctus XXII: 62.
+Inter ⁴ nudos optatiuos ornnes numeraui locoS, qui in
+ueteribus libris particula potentiali destituti esse uidentur,
+etsi editores hic illie κέν 0111111101οη1 (ΙΙε 33, XI: 73, XXII: 60,
+XXII: 73, XXIX: 10). Neque enirn constanter egisse mihi
+uidentur, ⁴sed quoque 1000 pro arbitrio suo uerba 1010010
+reliquisse aut mutasse. Nee mihi probari potest leX, quarn
+statuere 001011Ι Η11101 011 VIII: 20 - putat optatiuum
+nudum in carminibus mere bucolicis locum non habere -
+
+110111 sic quaeuis ,iere rarior loquendi 1011111110 corrigendo
+exstingui potest. (cfr uerba Hilleri ad II: 3.)
+
+ 
+
